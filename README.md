@@ -26,10 +26,18 @@ solutions while continuously enhancing my professional expertise </h4>
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
 
+### Platforms 🛠 :
 
+![AVR](https://img.shields.io/badge/-AVR-05122A?style=flat&logo=&logoColor=007ACC)&nbsp;
+![AVR](https://img.shields.io/badge/-ARM-05122A?style=flat&logo=&logoColor=007ACC)&nbsp;
+![AVR](https://img.shields.io/badge/-RTOS-05122A?style=flat&logo=&logoColor=007ACC)&nbsp;
+![AVR](https://img.shields.io/badge/-AUTOSAR-05122A?style=flat&logo=&logoColor=007ACC)&nbsp;
 
 ### Languages and Tools 🛠 : 
 
+![AVR](https://img.shields.io/badge/-Embedded_C-05122A?style=flat&logo=&logoColor=007ACC)&nbsp;
+![AVR](https://img.shields.io/badge/-C++-05122A?style=flat&logo=&logoColor=007ACC)&nbsp;
+![AVR](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -37,6 +45,7 @@ solutions while continuously enhancing my professional expertise </h4>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 
 
 <!--<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>-->
